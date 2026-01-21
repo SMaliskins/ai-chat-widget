@@ -4,7 +4,7 @@
 
   // Configuration
   const CONFIG = {
-    apiUrl: 'https://izo-art-studija.myshopify.com/api/chat', // Замените на ваш URL
+    apiUrl: 'https://shopify.dev/apps/default-app-home/api/chat', // Замените на ваш URL
     primaryColor: '#3b82f6',
     position: 'bottom-right',
     businessName: 'IZO Art',
